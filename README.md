@@ -4,7 +4,6 @@
 
 SynapseShare is a modern, feature-rich pastebin application designed for developers, writers, and anyone who needs to quickly share text or code snippets. With a sleek, themeable interface and powerful AI capabilities, it's more than just a paste tool—it's a productivity enhancer.
 
-![SynapseShare Screenshot](https://placehold.co/800x450.png)
 
 ## Core Features
 
